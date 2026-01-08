@@ -214,19 +214,21 @@ header_p-1 i{
 /* main 3 section */
 
 .main_3{
-   background-color: #469165;
+   /* background-color: #469165; */
    padding: 100px;
 }
 .main_3_div{
-    background-color: #F95555;
+    background-color: #F7F6F2;
     margin: 0 auto;
     width: 1400px;
     /* align-items: center; */
     text-align: center;
+    padding: 50px;
 }
 .main_3_div h2{
     font-size: 40px;
     margin: 20px 0;
+    text-transform: capitalize;
 }
 .main_3_div p{
     font-size: 18px;
